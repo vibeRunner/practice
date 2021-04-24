@@ -1,5 +1,6 @@
 // by viberunner
 
+// http://www.cs.put.poznan.pl/arybarczyk/7.pdf 7.1.18
 // polecenie do zadania nie było dobrze wyjaśnione
 // ale zakładając, że program ma wypisywać dla wartości 5:
 //
